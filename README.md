@@ -1,4 +1,15 @@
-### Hi there 👋
+```zsh
+> harun
+```
+
+```csharp
+vertigopastapunch@github
+-------------------------
+Location: Sarajevo, BiH
+Frameworks: Micronaut, Vue.js, Nuxt
+Languages: Java, Python, C++, JavaScript, TypeScript, HTML, CSS
+Learning: Django
+```
 
 <!--
 **vertigopastapunch/vertigopastapunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,6 +9,7 @@ Location: Sarajevo, BiH
 Frameworks: Micronaut, Vue.js, Nuxt
 Languages: Java, Python, C++, JavaScript, TypeScript, HTML, CSS
 Learning: Django
+Hobbies: Gaming, Cooking, Electronics
 ```
 
 <!--

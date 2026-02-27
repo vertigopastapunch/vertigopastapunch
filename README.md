@@ -8,7 +8,7 @@ vertigopastapunch@github
 Location: Sarajevo, BiH
 Frameworks: Micronaut, Vue.js, Nuxt
 Languages: Java, Python, C++, JavaScript, TypeScript, HTML, CSS
-Learning: Django
+Learning: Lua
 Hobbies: Gaming, Cooking, Electronics
 ```
 
